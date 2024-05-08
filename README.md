@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Singh Rana</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="[https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="Programmer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" align="center" width="300">
+<img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" align="center" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranavishal0002&label=Profile%20views&color=0e75b6&style=flat" alt="ranavishal0002" /> </p>
 
