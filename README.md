@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vishal-singh-rana-756360252/](https://www.linkedin.com/in/vishal-singh-rana-756360252/)
 
-- ⚡ Fun fact **Hard working and consistent about my learning**
+- ⚡ Fun fact **Nothing Scares me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
