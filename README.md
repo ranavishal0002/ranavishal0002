@@ -1,7 +1,4 @@
 
-![Programmer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-
 <h1 align="center">Hi 👋, I'm Vishal Singh Rana</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="Programmer" align="right" width="300">
