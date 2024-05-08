@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh Rana</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw3PViwCo0xdRLA59TkRDE4t&ust=1715227960016000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODf5Z6Y_YUDFQAAAAAdAAAAABAE" alt="Programmer" align="right" width="400">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw3PViwCo0xdRLA59TkRDE4t&ust=1715227960016000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODf5Z6Y_YUDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXehDbHT4Xx_vQVUW30EQP_z3ymPCjQNiBsg&s)" alt="Programmer" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranavishal0002&label=Profile%20views&color=0e75b6&style=flat" alt="ranavishal0002" /> </p>
 
