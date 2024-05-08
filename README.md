@@ -1,10 +1,10 @@
 
-![Programmer]([https://example.com/your-image.jpg](https://www.google.com/imgres?q=animated%20coding%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fhacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg%3Fsize%3D338%26ext%3Djpg%26ga%3DGA1.1.553209589.1715040000%26semt%3Dais&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&tbnid=pQgguiGAFXywTM&vet=12ahUKEwiTn_aXr_2FAxWdz6ACHcD1C6QQM3oFCIQBEAA..i&w=338&h=338&hcb=2&ved=2ahUKEwiTn_aXr_2FAxWdz6ACHcD1C6QQM3oFCIQBEAA))
+![Programmer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 
 <h1 align="center">Hi 👋, I'm Vishal Singh Rana</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://www.google.com/imgres?q=animated%20coding%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fhacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg%3Fsize%3D338%26ext%3Djpg%26ga%3DGA1.1.553209589.1715040000%26semt%3Dais&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&tbnid=pQgguiGAFXywTM&vet=12ahUKEwiTn_aXr_2FAxWdz6ACHcD1C6QQM3oFCIQBEAA..i&w=338&h=338&hcb=2&ved=2ahUKEwiTn_aXr_2FAxWdz6ACHcD1C6QQM3oFCIQBEAA" alt="Programmer" align="right" width="400">
+<!-- <img src="https://www.google.com/imgres?q=animated%20coding%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fhacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg%3Fsize%3D338%26ext%3Djpg%26ga%3DGA1.1.553209589.1715040000%26semt%3Dais&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&tbnid=pQgguiGAFXywTM&vet=12ahUKEwiTn_aXr_2FAxWdz6ACHcD1C6QQM3oFCIQBEAA..i&w=338&h=338&hcb=2&ved=2ahUKEwiTn_aXr_2FAxWdz6ACHcD1C6QQM3oFCIQBEAA" alt="Programmer" align="right" width="400"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranavishal0002&label=Profile%20views&color=0e75b6&style=flat" alt="ranavishal0002" /> </p>
 
