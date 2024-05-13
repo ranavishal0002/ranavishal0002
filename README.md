@@ -1,29 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Vishal Singh Rana</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" align="center" width="300">
+# Hi 👋, I'm Vishal Singh Rana
+### A passionate Software developer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranavishal0002&label=Profile%20views&color=0e75b6&style=flat" alt="ranavishal0002" /> </p>
+<img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" align="right" width="300">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranavishal0002" alt="ranavishal0002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ranavishal0002" target="blank"><img src="https://img.shields.io/twitter/follow/ranavishal0002?logo=twitter&style=for-the-badge" alt="ranavishal0002" /></a> </p>
+![Profile views](https://komarev.com/ghpvc/?username=ranavishal0002&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ranavishal0002)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ranavishal0002?logo=twitter&style=for-the-badge)](https://twitter.com/ranavishal0002)
 
 - 🌱 I’m currently learning **Data structure and Algorithms, Web Development**
-
-- 🤝 I’m looking for help with **Job role like Back-end, front-end, Java developer, Node developer, React-developer**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ranavishal0002](https://github.com/ranavishal0002)
-
-- 📝 I regularly write articles on [https://twitter.com/ranavishal0002](https://twitter.com/ranavishal0002)
-
+- 🤝 I’m looking for help with **Job roles like Back-end, front-end, Java developer, Node developer, React-developer**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ranavishal0002)
 - 💬 Ask me about **DSA, Java, React, Node, JavaScript**
+- 📝 I regularly write articles on [Twitter](https://twitter.com/ranavishal0002)
+- 📫 How to reach me: [Email](mailto:rvishalsingh0002@gmail.com)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/vishal-singh-rana-756360252/)
+- ⚡ Fun fact: **Nothing Scares me**
 
-- 📫 How to reach me **rvishalsingh0002@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vishal-singh-rana-756360252/](https://www.linkedin.com/in/vishal-singh-rana-756360252/)
-
-- ⚡ Fun fact **Nothing Scares me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
