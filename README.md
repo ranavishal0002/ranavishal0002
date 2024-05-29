@@ -5,7 +5,7 @@
 <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" align="right" width="300">
 
 ![Profile views](https://komarev.com/ghpvc/?username=ranavishal0002&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ranavishal0002)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ranavishal0002?logo=twitter&style=for-the-badge)](https://twitter.com/ranavishal0002)
 
 - 🌱 I’m currently learning **Data structure and Algorithms, Web Development**
