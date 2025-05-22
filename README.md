@@ -9,9 +9,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ranavishal0002?logo=twitter&style=for-the-badge)](https://twitter.com/ranavishal0002)
 
 - 🌱 I’m currently learning **Data structure and Algorithms, Web Development**
-- 🤝 I’m looking for help with **Job roles like Back-end, front-end, Java developer, Node developer, React-developer**
+- 🤝 I’m looking for help with **Job roles like Back-end, front-end, Java developer, SpringBoot Developer**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ranavishal0002)
-- 💬 Ask me about **DSA, Java, React, Node, JavaScript**
+- 💬 Ask me about **DSA, Java, Scala**
 - 📝 I regularly write articles on [Twitter](https://twitter.com/ranavishal0002)
 - 📫 How to reach me: [Email](mailto:rvishalsingh0002@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/vishal-singh-rana-756360252/)
