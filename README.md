@@ -1,8 +1,10 @@
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!-- 🔥 FUTURISTIC NEON BLUE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2800&color=1DA1F2&center=true&vCenter=true&width=850&lines=VISHAL+SINGH+RANA;Backend+Developer+%7C+Java+%7C+Spring+Boot;DSA+Enthusiast+%7C+Problem+Solver;Building+High-Performance+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2500&pause=800&color=0A3D91&center=true&vCenter=true&width=700&lines=VISHAL+SINGH+RANA;Backend+Developer+%7C+Java|Spring-Boot" />
 </p>
+
+
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!-- 🔗 SOCIAL LINKS -->
