@@ -58,26 +58,12 @@
 
 ---
 
-# 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranavishal0002&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 # 📈 **Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranavishal0002&theme=react-dark&hide_border=true&area=true&color=1DA1F2" />
-</p>
-
----
-
-# 🐍 **Contribution Snake Animation**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ranavishal0002/ranavishal0002/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -101,10 +87,42 @@
 
 # 📫 **Let's Connect**
 
-- 📧 Email: **rvishalsingh0002@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/vishal-singh-rana-756360252**  
-- 🐦 Twitter: **@ranavishal0002**  
-- 🧑‍💻 Portfolio (coming soon…)
+## 📫 Connect With Me
+
+<p>
+
+  <a href="mailto:rvishalsingh0002@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+         width="40" height="40" alt="Email" />
+  </a>
+  <br/>
+  <b>Email:</b> 
+  <a href="mailto:rvishalsingh0002@gmail.com">rvishalsingh0002@gmail.com</a>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/vishal-singh-rana-756360252" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         width="40" height="40" alt="LinkedIn" />
+  </a>
+  <br/>
+  <b>LinkedIn:</b>  
+  <a href="https://www.linkedin.com/in/vishal-singh-rana-756360252">
+     linkedin.com/in/vishal-singh-rana-756360252
+  </a>
+
+  <br/><br/>
+
+  <a href="https://twitter.com/ranavishal0002" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" 
+         width="40" height="40" alt="Twitter" />
+  </a>
+  <br/>
+  <b>Twitter:</b>  
+  <a href="https://twitter.com/ranavishal0002">@ranavishal0002</a>
+
+</p>
+
 
 ---
 
